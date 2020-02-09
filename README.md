@@ -1,8 +1,8 @@
-# Luka B - GitHib
--Data science challenges
--Machine learning
--Coding projects
--Neural networks
--EDA 
--Tutorials
+# Luka B - GitHub
+-Data science challenges \n
+-Machine learning \n
+-Coding projects \n
+-Neural networks \n
+-EDA \n
+-Tutorials \n
 
