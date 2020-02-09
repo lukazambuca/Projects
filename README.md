@@ -1,2 +1,8 @@
-# Lstm
-Using LSTM for time-series predictions
+# Luka B - GitHib
+-Data science challenges
+-Machine learning
+-Coding projects
+-Neural networks
+-EDA 
+-Tutorials
+
