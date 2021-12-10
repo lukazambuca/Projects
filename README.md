@@ -1,4 +1,4 @@
-# Luka B - GitHub
+# What's this about?
 ### -Data science challenges 
 ### -Machine learning 
 ### -Coding projects 
