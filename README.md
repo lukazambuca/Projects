@@ -13,6 +13,7 @@
 #### Research 
 - Implementing [algortihm](https://github.com/lukazambuca/Projects/tree/master/GEVC) from Extreme Value Theory for Open Set Classification – GPD and GEV Classifiers in python
 - Hons research. Estimating the tail index for a truncated extended pareto model
+- [Applying machine learning in Respiratory Medicine] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4230195)
 #### Time series
 - [Sandesh](https://github.com/lukazambuca/Projects/blob/master/Sandesh3.ipynb) online challenge. Predict time series KPI's using ARIMA model
 - Predicting stocks (like trying to guess which way the wind will blow)
