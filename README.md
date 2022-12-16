@@ -1,4 +1,4 @@
-# What's this about?
+# Projects
 ### -Data science challenges 
 ### -Machine learning 
 ### -Coding projects 
